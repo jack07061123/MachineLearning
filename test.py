@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print('Hello World')
 
-print('I am a man.')
+print('I am a Jack')
