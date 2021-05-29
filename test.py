@@ -1,4 +1,11 @@
-<<<<<<< HEAD
-print('Hello World')
+# Deep Learning Clasee Week 2(Logistic Regression)
 
-print('I am a Jack')
+import numpy as mp
+import matplotlib.pyplot as plt
+import h5py
+import scipy
+from PIL import Image
+from scipy import ndimage
+
+%matplotlib inline
+
