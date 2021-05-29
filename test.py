@@ -9,3 +9,6 @@ from scipy import ndimage
 
 %matplotlib inline
 
+
+print('test')
+
